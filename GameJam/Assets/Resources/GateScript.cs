@@ -12,6 +12,7 @@ enum Colour
 public class GateScript : MonoBehaviour
 {
 	private Colour gateColour;
+	public int gatePoints;
 	// Use this for initialization
 	void Start ()
     {
